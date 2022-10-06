@@ -1,0 +1,11 @@
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\bin\Debug\10-30NUMBER.exe.config
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\bin\Debug\10-30NUMBER.exe
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\bin\Debug\10-30NUMBER.pdb
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\10-30NUMBER.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\10-30NUMBER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\_10_30NUMBER.Form1.resources
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\_10_30NUMBER.Properties.Resources.resources
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\10-30NUMBER.csproj.GenerateResource.cache
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\10-30NUMBER.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\10-30NUMBER.exe
+C:\Users\Togrul\source\repos\10-30NUMBER\10-30NUMBER\obj\Debug\10-30NUMBER.pdb
